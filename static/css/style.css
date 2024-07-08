@@ -16,7 +16,7 @@
   height: 100vh;
   width: 100%;
   padding: 90px 0;
-  background: #fff;
+  background: #F2F5EA;
 }
 .pic {
   height: auto;
@@ -35,7 +35,7 @@
   width: 540px;
 }
 .text h2 {
-  color: #333;
+  color: #546D64;
   font-size: 90px;
   font-weight: 600;
   margin-bottom: 10px;
@@ -47,7 +47,7 @@
   margin-bottom: 20px;
 }
 span {
-  color: #4070f4;
+  color: #3C896D;
 }
 .text p {
   color: #333;
@@ -60,7 +60,7 @@ span {
 }
 .hire {
   font-size: 18px;
-  background: #4070f4;
+  background: #546D64;
   color: #fff;
   text-decoration: none;
   border: none;
@@ -69,6 +69,39 @@ span {
   transition: 0.5s;
 }
 .hire:hover {
-  background: #000;
+  background: #3C896D;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #546D64;
+}
+
+li {
+ float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover:not(.active) {
+  background-color: #3C896D;
+}
+
+.active {
+  background-color: #8D818C;
+}
+
+.picture#1 {
+  height: 200px;
+  width: 50%;
+}

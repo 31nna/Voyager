@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2b3d0e4-ed59-49ec-89fa-3003c3e5b5d8" name="Changes" comment="about page created&#10;Changed about us to voyager" />
+    <list default="true" id="e2b3d0e4-ed59-49ec-89fa-3003c3e5b5d8" name="Changes" comment="about page created&#10;Changed about us to voyager&#10;changed navbar tabs">
+      <change afterPath="$PROJECT_DIR$/images/pixlr-image-generator-4b33213d-6f43-48f8-b9e5-10f291b99b54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/document/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "31nna"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;31nna&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/31nna/Voyager.git",
-    "accountId": "00debe73-2ab8-454d-998e-f93e62ea4be8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/31nna/Voyager.git&quot;,
+    &quot;accountId&quot;: &quot;00debe73-2ab8-454d-998e-f93e62ea4be8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -42,13 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\egaamin\PycharmProjects\Voyager\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,12 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720184221572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="about page created&#10;Changed about us to voyager&#10;changed navbar tabs">
+      <option name="closed" value="true" />
+      <created>1720184618506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720184618506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="about page created" />
     <MESSAGE value="about page created&#10;Changed about us to voyager" />
-    <option name="LAST_COMMIT_MESSAGE" value="about page created&#10;Changed about us to voyager" />
+    <MESSAGE value="about page created&#10;Changed about us to voyager&#10;changed navbar tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="about page created&#10;Changed about us to voyager&#10;changed navbar tabs" />
   </component>
 </project>
